@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian Vault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>Obsidian Vault</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 28 May 2026 16:50:29 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 28 May 2026 16:50:28 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[모드 설명]]></title><description><![CDATA[26.05.26
+구독순 상위 150개 검수.<a href=".?query=tag:필수선행모드" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#필수선행모드">#필수선행모드</a> 필수 설치 모드ModOptions의 42빌드 버전.
+모든 KI5 모드 기반 프레임워크.
+아이템의 우선순위를 조정하기 위한 모드
+Hats and Glasses Don't Fall의 선행모드
+41빌드용
+Autotsar 시리즈 필수 프레임워크.
+차량튜닝을 위한(또는 이를통해 만들어진 모드들) 선행 모드
+아이템,ui를 변경시키는 모드중 필요로 하는 선행 모드
+필요로 하는 별개의 모드를 사용하는게 아니라면 필요 없음
+<br><a href=".?query=tag:바디프레임워크" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#바디프레임워크">#바디프레임워크</a> 바디를 플레이어만 적용되게끔 하는 프레임 워크자유로운 커스터마이징이 가능한 바디모드,플레이어 바디만 적용, 수동설치 필수
+Note - 수동설치 방법 C:\\Program Files (x86)\\steam\steamapps\\workshop\content\n108600\\3686098703\TrueModelz\\mods로 이동합니다 "좀비"라는 이름의 폴더 복사 좀비 폴더를 찾아서 붙여넣습니다: C:\\Program Files (x86)\\steam\steamapps\\common\\ProjectZomboid 41빌드 루아 스크립트용 함수모음 즉 구시대 유물
+브레이븐 특정 모드 구동시 필요
+창밖으로 던지기, 브레이븐 자전거, 오토바이 모드 등.
+<br><a href=".?query=tag:타일모드" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#타일모드">#타일모드</a>Chinatown Expansion 과 Eerie Country등의 맵에 쓰임.
+굉장히 높은 퀄리티의 1.6GB 타일모드
+Chinatown Expansion 과 군사시설등에 주로 쓰이는 타일
+770MB의 용량
+<br><a href=".?query=tag:차량모드" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#차량모드">#차량모드</a> KI5 시리즈`바닐라차량 스폰 금지`
+`정상적인 사용을 위해 KI5나 Filibuster(필리버스터) 차량 모드를 반드시 따로 구독`
+`KI5 + Filibuster 옵션 모드는 버그있음 사용 불가`
+`차량 모드중 최상위(상단) 배열로`
+`5개의 모드 옵션` `-**(B41/B42) No Vanilla Vehicles** - 바닐라 차량 스폰 및 완파된(부서진) 차량을 제거합니다. 단, 바닐라 스토리 차량, 직업 밴, 그리고 **트레일러는 맵에 남겨둡니다.**` `-**(B42) No Vanilla Vehicles - Profession Vans** - 바닐라 직업 밴(구급차, 소방차 등) 스폰을 제거합니다. (아직 다른 모드 차량으로 대체되지는 않습니다.)` `-**(B42) No Vanilla Vehicles - Stories (KI5+Filibuster)** - ~~바닐라 차량 스토리(도로 위 사고 현장 등)를 KI5 및 Filibuster 차량 + 기타 차량으로 대체합니다.~~` `-**(B42) No Vanilla Vehicles - Stories (KI5)** - 바닐라 차량 스토리를 **오직 KI5 차량으로만** 대체합니다.` `-**(B42) No Vanilla Vehicles (No duplicate KI5 &amp; Filibuster Vehicles)** - 동일하거나 유사한 차종의 KI5 모드와 Filibuster 모델이 동시에 활성화되어 있을 때, Filibuster 모델이 스폰되지 않도록 막아줍니다. (중복 방지)` 컨테이너 추가 모드(KI5) 82 Oshkosh M911 + Military Semi-Trailers 로 차량견인이 가능했지만 현재 불가능
+트레일러라는 특수 차량이 생성
+바닐라 차량 스폰 금지 모드 사용시 도로이벤트나 쓰레기 매립지에만 스폰되는 버그.
+차량 연결시 매우 느려짐 임시 해결방법은 타이어 공기압을 최대로 올릴것.
+대용량 차량모드(수십대의 차량과 애니메이션 통합팩)
+42빌드용으로 따로 모드가 나왔으나 마찬가지로 오류발생
+다운로드만 해도 다른 모드를 변형시킨다는 제보가 있어 구독 금지
+<br><a href=".?query=tag:편의성모드" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#편의성모드">#편의성모드</a>무기 내구도 가시성 모드
+무들 상세 설명(무들에 대한 언어파일만 변환)
+각 특성의 효과 명확시 명시
+모드 옵션에서 sho more desciption, show free recipes 화재킬은 솔로에서만, 차량킬은 바닐라에서 부분적으로 계산되어 카운트 불일치 발생.
+장비 인터페이스 가시성 모드 42.18 호환성 패치
+좀비 머리위 체력바 생성
+Visible Generator Range(사용불가) 대체 모드.
+발전기 정보, 작동거리, 작동 시간등 확인하는 모드
+수면가능 서버에서 모두가 수면하지 않아도 되는 모드
+1분에 2시간치 피로도 회복(침대품질 영향있음) 시스템.
+자연스레 밤시간 활동이 길어지기에 낮 비율 증가 추천
+붕대교체시 붕대제거 -&gt; 붕대감기 등 두번의 조작을 붕대교체 하나의 명령으로 수행.
+모자,안경등 피격시 떨구는 메커니즘 삭제.
+옵션은 41빌드용.
+모드 의상사용시 Item Tweaker API를 필수를 요구하나 41빌드용임.
+도구없이 목공 스킬레벨 필요없이 고정식 가구(선반)제외 옮기기 가능해지는 모드
+모든 의류, 신발, 방탄조끼등 모든것을 수리가능하게 만듬.
+스토브등 열원이 존재시 담배에 불붙이기 가능해지는 모드
+퀵슬롯에 장착한 무기 스왑 모드
+보관함(사물, 가구)내부에 템 있어도 분해가능
+비나 눈이 오면 피가 서서히 사라짐
+멀티에서는 기본적으로 피 옵션 끄기에 보통 의미없는 모드
+퀵슬롯의 위치를 드래그로 변경가능.
+Authentic Z와 연동 가능
+인벤토리, 상자 등을 하나의 창으로 통합시키는 편의성 모드.
+<br><a href=".?query=tag:무기" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#무기">#무기</a>철퇴, 양손도끼 추가
+현대화 근접무기 추가
+바닐라 분위기를 헤치지 않는 순정 총기 모드.
+기본 바닐라의 충분한 업데이트로 굳이 필요하지 않음.
+현재 무기스폰이 안되는 버그
+<br><a href=".?query=tag:에러체킹" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#에러체킹">#에러체킹</a>에러체킹모드
+연산없고 단순 출력이라 편의성 구간 아무대나 배열.
+errorMagnifier 필수 유틸 모드 배열순서 - Mod Update and Alert System - Common Sense - Common Sense Patch
+<br><a href=".?query=tag:모션" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#모션">#모션</a> 상호작용 추가(편의성)-특정 장비(빠루같은)로 문따기 같은 상호작용을 가능하게 해주는 모드
+-**지렛대**로&nbsp;**문**,&nbsp;**창문**,&nbsp;**차량**을 뜯어 엽니다. -화면 왼쪽 상단에 총 탄약 카운터가 표시됩니다. -땅에서&nbsp;**쓰레기**,&nbsp;**재료**&nbsp;등을 수거합니다. -도구벨트에 손&nbsp;**손전등**을 부착합니다. -즉석 재료로&nbsp;**시트**를 만듭니다. -알코올을 사용하여&nbsp;**더러운 붕대**를 살균합니다. -다양한 무기와 도구를 수리합니다. -이는 일부분입니다.
+음식 먹는 모션 자연스럽게
+<br><a href=".?query=tag:바디" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#바디">#바디</a>고퀄리티 바디 및 페이스(이목구비 뚜렷함, 근육 뚜렷함) 옵션 3가지 기본 - 속옷 Doll - 인형같은 누드 Nude - 유두,음모(노골적인 성기표현 없음)
+신규 바디 맞춤 의상
+Note
+모드는 영향을 미치려는 다른 모든 의류 모드보다 ==아래에 배열== 이 모드와 호환가능한 의류 모드 Boots Expanded Spongie's Open Jackets Spongie's Clothing Vanilla Gear Expanded Vanilla Clothing Expansion Frockin Splendour v1-4 KATTAJ1 Clothes Core H.E.C.U Lillie's Enhanced Militaria Reaper's Hair + Beard 바디모드와 연동되는 커스터마이징 모드.
+메인 게임에서도 활성화 되어있어야 함.
+기존 Spongie의 모드가 먼저 로드 42빌드는 다른 유저가 적용가능하게 수정한 모드임.
+<br><a href=".?query=tag:헤어" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#헤어">#헤어</a>모자 착의시 헤어스타일 유지하도록 하는 모드
+기존에 있던 헤어, 모자를 건들이는(변경등) 모드와 비호환.
+머리부상시 대머리가 되는 이슈 확인 요망.
+Note
+호환가능한 헤어 모드 Spongie's Hair Pack Yaki's Hair Harry's Hair 헤어모드.
+<br><a href=".?query=tag:행동애니메이션" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#행동애니메이션">#행동애니메이션</a> 다양한 행동 애니메이션 추가.
+41빌드 때부터 버그있고 없데이트(노클립 미작동)
+<br><a href=".?query=tag:의상" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#의상">#의상</a> 다양한 경찰특공대 의상
+발라클라바등 얼굴에 씌우는 장비의 경울 몸을 씻을때 반듯이 벗을것.
+장비창의 부족으로 개발자 피셜 화장탭에 우겨넣었기에 씻을시 증발함.
+다양하고 장소에 적절한 좀비 의상 모드
+<br><a href=".?query=tag:시스템" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#시스템">#시스템</a> 오버홀 모드(업데이트시 문제될 가능성 높음)바닐라 특성의 밸런스 조정 및 킬카운트에 따른 특성 변화
+적대적 습격자npc를 생성하는 모드
+솔로플레이시에 적합하지만 멀티에도 작동
+배열 최하단 배치.
+다양한 특성 추가해주는모드
+SOTO 처럼 상황에 따라 부정적 특성 제거.
+숨겨진 즉사트리거(억까) 존재 (감기등 가벼운 부상이 무작위 확률로 사망시킴)
+멸망 후 7년뒤 세계관, 업데이트에 요구되는 작업량이 높아서 업데이트 안될가능성 높음
+]]></description><link>모드-설명.html</link><guid isPermaLink="false">좀보이드 서버 모드/모드 설명.md</guid><pubDate>Thu, 28 May 2026 16:14:52 GMT</pubDate></item></channel></rss>
